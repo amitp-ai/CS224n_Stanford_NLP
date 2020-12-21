@@ -1,4 +1,4 @@
-# CS224n (NLP)
+# CS224n (NLP) -- Spring 2019
 Deep Learning Based NLP
 
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/

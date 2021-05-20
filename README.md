@@ -19,7 +19,7 @@ Experimented with:
 5. Bi-directional Embedding Representation for Transformers (BERT) based architecture for Question Answering tasks
 
 ## Assignments
-https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1.pdf
+[Exploring word vectors](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1_preview/exploring_word_vectors.html)
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.pdf
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a3.pdf
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a4.pdf

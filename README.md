@@ -19,9 +19,12 @@ Experimented with:
 5. Bi-directional Embedding Representation for Transformers (BERT) based architecture for Question Answering tasks
 
 ## Assignments
-[Exploring word vectors](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1_preview/exploring_word_vectors.html)
+[Assignment 1: Exploring word vectors](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1_preview/exploring_word_vectors.html)
 
-https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.pdf
-https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a3.pdf
-https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a4.pdf
-https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a5.pdf
+[Assignment 2: Understanding and Implementing Word2Vec](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.pdf)
+
+[Assignment 3: Neural Dependency Parser](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a3.pdf)
+
+[Assignment 4: Neural Machine Translation](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a4.pdf)
+
+[Assignment 5: More Advanced Neural Machine Translation](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a5.pdf)

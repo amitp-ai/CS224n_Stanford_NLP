@@ -7,7 +7,7 @@ https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule
 
 ## Project: Question-Answering Using SQuAD 2.0 Dataset
-https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/project/default-final-project-handout.pdf <br />
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/project/default-final-project-handout.pdf
 
 https://github.com/amitp-ai/CS224n_Stanford_NLP/tree/main/Project_QA_SQuAD2  
 
@@ -19,7 +19,7 @@ Experimented with:
 5. Bi-directional Embedding Representation for Transformers (BERT) based architecture for Question Answering tasks
 
 ## Assignments
-[Exploring word vectors](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1_preview/exploring_word_vectors.html)
+Exploring word vectors <https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1_preview/exploring_word_vectors.html>
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.pdf
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a3.pdf
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a4.pdf
